@@ -1,7 +1,6 @@
 package Shpakovskiy;
 
 public class Point {
-    //Coordinates of the point
     private int x;
     private int y;
 
